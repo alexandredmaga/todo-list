@@ -11,3 +11,5 @@ Lista de tarefas
 ## Objetivo
 - Esse projeto não foi feito só para aumentar portifólio, mas sim para exercitar a lógica, criando um código do zero com a minha própria lógica.
 
+## Deploy
+- [To Do](https://todo-list-two-roan.vercel.app/)
